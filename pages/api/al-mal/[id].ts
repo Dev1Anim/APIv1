@@ -16,6 +16,7 @@ interface MediaResponse {
     };
 }
 
+export const runtime = 'edge'; // Add runtime export
 
 export default async function handler(req: NextApiRequest, res: NextApiResponse) {
     const { id } = req.query; // Get the AniList ID from the query parameters

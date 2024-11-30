@@ -24,7 +24,8 @@
     "**/*.tsx",
     "pages/api/dl/[id].ts",
     "pages/api/al-mal/[id].ts",
-    "pages/api/mal-al/[id].ts"
+    "pages/api/mal-al/[id].ts",
+    "/public/**/*" // Updated to include any files in the public directory
   ],
   "exclude": [
     "node_modules"

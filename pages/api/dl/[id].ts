@@ -6,6 +6,8 @@ type DownloadLink = {
     link: string;
 };
 
+export const runtime = 'edge'; // Add runtime export
+
 export default async function handler(req: NextApiRequest, res: NextApiResponse) { // Add types
    const id = req.query.id?.toString().replace('/', ''); // Change epId to id and remove "/"
 

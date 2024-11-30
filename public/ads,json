@@ -1,0 +1,20 @@
+[
+    {
+        "link": "https://example.com/ad1",
+        "imgm": "https://example.com/images/ad1-mobile.jpg",
+        "imgd": "https://example.com/images/ad1-desktop.jpg",
+        "alt": "Ad description for ad 1"
+    },
+    {
+        "link": "https://example.com/ad2",
+        "imgm": "https://example.com/images/ad2-mobile.jpg",
+        "imgd": "https://example.com/images/ad2-desktop.jpg",
+        "alt": "Ad description for ad 2"
+    },
+    {
+        "link": "https://example.com/ad3",
+        "imgm": "https://example.com/images/ad3-mobile.jpg",
+        "imgd": "https://example.com/images/ad3-desktop.jpg",
+        "alt": "Ad description for ad 3"
+    }
+]
